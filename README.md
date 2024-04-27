@@ -25,4 +25,4 @@
 ##### `change_email(self, email)`: Método para cambiar el correo electrónico del alumno.
 ##### `add_mentor(self, tutor)`: Método para agregar un mentor al alumno.
 
-### En el archivo `tests_oop.py` se encuentras los casos de testeo.
+### En el archivo `tests_oop.py` se encuentran los casos de testeo.
